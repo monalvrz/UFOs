@@ -3,11 +3,16 @@
 ## Project Overview
 For this project we created an HTML page that contains information about UFO sightings. We used Javascript to display the data as a table and to add dinamic filters that would allow the public to fine tune the information of the sightigns according to the date, city, state, country and shape of the UFOs.
 
+## Resources
+- Data Source: data.js
+- Software: JavaScript
+
 ## Results
 
 When you enter the site, you will first find a short text that introduces the theme of UFO sightsigns. The section below contains the table and the filters that can be used to obtain more specific information depending on the date, city, state, country and shape of the sightings. 
 
 In order to perform a search you simply enter one or more filter criteria, and the table will change automatically. If you want to change or remove a filter, simply delete or overwrite the information.
+
 
 ### Initial display:
 
